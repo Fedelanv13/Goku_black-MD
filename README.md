@@ -5,7 +5,9 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=👑+¡HOLA,+SOY+Fede!+🔥" alt="Typing SVG">
+</h1>
 
 ### `✨ Goku-Black-MD ✨`
 
@@ -90,6 +92,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `PROPIETARIO DEL BOT` 
-<a href="https://github.com/fedelan"><img src="https://github.com/fedelan.png" width="250" height="250" alt="fede"/></a>
+<a href="https://github.com/Fedelanv13"><img src="https://github.com/Fedelanv13.png" width="250" height="250" alt="fede"/></a>
   
 ## `Goku-Black-MD`
